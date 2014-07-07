@@ -27,10 +27,6 @@
 					<testResultsTimestamp>false</testResultsTimestamp>
 					<ignoreResultFailures>false</ignoreResultFailures>
 					<testFilesDirectory>.</testFilesDirectory>
-                    <testFilesIncluded>
-						<jMeterTestFile>1_Priority_Tests/*.jmx</jMeterTestFile>
-						<jMeterTestFile>2_Dependent_Tests/*.jmx</jMeterTestFile>
-                    </testFilesIncluded>
 					<suppressJMeterOutput>false</suppressJMeterOutput>
 					<propertiesUser>
 					
